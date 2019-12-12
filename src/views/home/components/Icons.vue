@@ -104,7 +104,9 @@
         padding-bottom: 50%;
         /* 即高始终为宽的50% */
     }
-
+    .icons{
+        margin-top: .1rem;
+    }
     .icon {
         position: relative;
         overflow: hidden;
