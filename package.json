@@ -12,6 +12,7 @@
     "better-scroll": "^1.15.2",
     "core-js": "^3.4.3",
     "fastclick": "^1.0.6",
+    "redis": "^2.8.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "vue": "^2.6.10",
